@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nitrogen_vince.mk
+    $(LOCAL_DIR)/potato_vince.mk
 
 COMMON_LUNCH_CHOICES := \
-    nitrogen_vince-user \
-    nitrogen_vince-userdebug \
-    nitrogen_vince-eng
+    potato_vince-user \
+    potato_vince-userdebug \
+    potato_vince-eng
