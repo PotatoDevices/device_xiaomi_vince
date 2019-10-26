@@ -2,16 +2,22 @@
   {
     	"repository": "device_xiaomi_vince-8953",
     	"target_path": "device/xiaomi/msm8953",
-    	"branch": "baked-release"
+    	"branch": "croquette-release"
   },
   {
+      "repository": "device_xiaomi_vince",
+      "target_path": "device/xiaomi/vince",
+      "branch": "croquette-release"
+  } ,
+  {
+
     	"repository": "kernel_xiaomi_vince",
     	"target_path": "kernel/xiaomi/msm8953",
-    	"branch": "baked-release"
+    	"branch": "croquette-release"
   },
   {
     	"repository": "vendor_xiaomi_vince",
-    	"target_path": "vendor/xiaomi/vince",
-    	"branch": "baked-release"
+    	"target_path": "vendor/xiaomi",
+    	"branch": "croquette-release"
   }
 ]
