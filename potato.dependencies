@@ -5,9 +5,9 @@
     	"branch": "croquette-release"
   },
   {
-      "repository": "device_xiaomi_vince",
-      "target_path": "device/xiaomi/vince",
-      "branch": "croquette-release"
+        "repository": "device_xiaomi_vince",
+        "target_path": "device/xiaomi/vince",
+        "branch": "croquette-release"
   } ,
   {
 
